@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "^1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -12,5 +13,8 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Nazmiyeh Sadiyeh",
-	"description": "Backend project setup with Node.js and Express for freeCodeCamp exercises."
+	"description": "Backend project setup with Node.js and Express for freeCodeCamp exercises.",
+	"keywords": ["freecodecamp", "node", "express","backend", "api"],
+	"license": "MIT",
+	"version": "1.0.0"
 }
